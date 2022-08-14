@@ -346,6 +346,9 @@ footer ul li a:hover {
   background-image: url('../img/dragon.webp');
 }
 
+.bg-starship {
+  background-image: url('../img/starship.webp');
+}
 .section-animate {
   animation: fadeIn 2s ease-in-out;
 }
